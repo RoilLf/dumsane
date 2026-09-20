@@ -1,7 +1,7 @@
 {
-	"name": "NoDelete",
-	"description": "Keeps deleted messages, untill you dismiss them or restart the app",
-	"authors": [{ "name": "meqativ :3", "id": "744276454946242723" }],
+	"name": "Unhappy:c",
+	"description": "unhappy rn soo un good ",
+	"authors": [{ "name": "unhappy:c", "id": "1390947560214106224" }],
 	"main": "./index.js",
 	"vendetta": { "icon": "ic_hide_24px" }
 }
